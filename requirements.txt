@@ -48,7 +48,6 @@ pypiwin32 ; sys_platform == 'win32'
 # Dépendances Adhoc
 cryptography==40.0.2; python_version < '3.7'
 cryptography; python_version > '3.6'
-pymssql
 python-stdnum==1.9
 pymssql==2.2.1
 holidays

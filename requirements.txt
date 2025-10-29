@@ -64,3 +64,4 @@ pandas
 openai
 pydantic
 markdown
+pyreadstat==1.2.9
